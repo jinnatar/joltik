@@ -1,6 +1,3 @@
-*.zip
-
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -167,3 +164,4 @@ cython_debug/
 # specifically for joltik
 arm64-v8a/
 armeabi-v7a/
+*.zip
